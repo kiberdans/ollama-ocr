@@ -1,5 +1,3 @@
 streamlit
 ollama
-PIL
-io
-typing
+Pillow
